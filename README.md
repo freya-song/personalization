@@ -1,8 +1,10 @@
-# project-2-final-jlyc-fp
+# Personalization Final Project
 project-2-final-jlyc-fp created by GitHub Classroom
 
 Team members: Xiao Ji (xj2247@columbia.edu, xj2247), Xinyi Liu (xl2904@columbia.edu, xl2904), 
 Jiaying Chen (jc5299@columbia.edu, jc5299), Duanyue Yun (dy2400@columbia.edu, dy2400)
+
+In this project, we used the Yelp dataset to build a recommendation system. We implemented 2 models: collective matrix factorization using the cmfrec package and factorization machine using the lightFM package. We compared the models against 2 baselines (bias and pure matrix factorization) and evaluated the models based on accuracy metrics and catalog coverage.
 
 Please find the **Final Report.ipynb** for our final report.
 
